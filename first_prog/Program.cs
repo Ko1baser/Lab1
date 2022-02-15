@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите любое число");
+﻿
+Console.WriteLine("Введите любое число");
 int chislo = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("введите другое число для вычислений");
