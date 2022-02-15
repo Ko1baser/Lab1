@@ -11,6 +11,7 @@ Console.WriteLine($"произведение: {chislo * prost}");
 Console.WriteLine($"деление на цело: {chislo / prost}");
 Console.WriteLine($"возведение в степень: {Math.Pow(chislo, prost)}");
 Console.WriteLine($"корень числа prosto: {Math.Sqrt(chislo)}");
+Console.WriteLine($"деление на остаток: {chislo % prost}");
 
 int[] arr = new int[chislo];
 
